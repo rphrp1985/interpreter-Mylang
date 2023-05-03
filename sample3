@@ -1,0 +1,15 @@
+int j=2;
+int k =90;
+string x= "jjj" ;
+
+while k<100
+{
+   j = 1+j;
+    k= 1+k;
+    
+    print k;
+    println;
+    print x;
+    println;
+    
+};

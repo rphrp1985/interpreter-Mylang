@@ -1,0 +1,12 @@
+int i= 2;
+while i < 100 {
+ 
+    int k = i%2;
+   if i%2 == 0 {
+    print i ;
+     println;
+   };
+  
+ 
+  i = i + 1;
+};

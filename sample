@@ -1,0 +1,25 @@
+int f = 4;
+int h= 9;
+string s = "hello\n";
+int j = f+h;
+if f > 5 {
+
+  if h!=9{
+    print j;
+  } else {
+    print f;
+  };
+
+}
+ else
+ {
+  print h;
+};
+
+println;
+while f<10 {
+  print f;
+  println;
+  f = 1+f;
+};
+
